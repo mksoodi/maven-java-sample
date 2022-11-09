@@ -1,0 +1,4 @@
+{"timestamp":164617741,"category":"nimbus_events","name":"unenrollment","extra":{"experiment":"set-to-default-wording-infrequent-eco2206","reason":"targeting-mismatch","branch":"control","enrollment_id":"05f6cd81-3d8d-4dec-b231-0e785f793d10"}}
+{"timestamp":164631521,"category":"perf","name":"page_load","extra":{"js_exec_time":"1371","fcp_time":"2775","load_type":"NORMAL","response_time":"2364","load_time":"9036"}}
+{"timestamp":164642212,"category":"perf","name":"page_load","extra":{"load_time":"1005","load_type":"LINK","response_time":"294","fcp_time":"417","js_exec_time":"74"}}
+{"timestamp":180354141,"category":"perf","name":"page_load","extra":{"fcp_time":"4889","load_time":"6168","response_time":"4394","load_type":"STOP","js_exec_time":"0"}}
